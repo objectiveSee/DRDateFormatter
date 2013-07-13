@@ -148,7 +148,7 @@ static const NSTimeInterval kCSSecondsInOneMinute = 60;
     
     if (date == nil)
     {
-        EALog(@"Could not parse RFC3339 date: \"%@\" Possible invalid format.", dateString);
+        NSLog(@"Could not parse RFC3339 date: \"%@\" Possible invalid format.", dateString);
     }
     
     if ( convertToLocal == YES )
