@@ -10,7 +10,7 @@ Servers should always use the UTC+0 timezone and represent their dates using the
 ### Cocoapods
 
 ```ruby
-pod 'DRDateFormatter', '~> 0.0.1'
+pod 'DRDateFormatter', '~> 1.0.0'
 ```
 
 ## Usage
