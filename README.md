@@ -24,7 +24,7 @@ NSDate *date = [[DRDateFormatter sharedDateFormatter] dateFromServerString:dateS
 
 ```
 
-Also supports recent time representations such as "2 hours ago". See .h file for full documentation.
+Also supports recent time representations such as "2 hours ago". See **DRDateFormatter.h** for full documentation.
 
 ```objective-c
 
